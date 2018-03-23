@@ -9,10 +9,10 @@ import java.util.List;
 
 public class TwitterCrawl {
 
-	private static final String KEY = "xtonZrpZ8FpgEvWLYZh5Smh7c",
-			SECRET = "tjA03YqkOctpjr8BH7rglY7ciOD6fK7eLdD835HXCskfeFCscw",
-			TOKEN = "953657701766180865-FpG4QmtJ4lrDldYIuJl2m85TfPMSRKk",
-			TOKENSECRET = "rss2EbyvfaPshAWnJI54puIjA3BYVZCqWmJVe3wMCg3ls";
+	private static final String KEY = "Enter",
+			SECRET = "Enter",
+			TOKEN = "Enter",
+			TOKENSECRET = "Enter";
 
 	public static void main(String[] args) throws TwitterException {
 
